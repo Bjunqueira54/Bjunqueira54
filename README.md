@@ -1,5 +1,3 @@
-- 👋 Hi, I’m GothicDread
+- 👋 Hi, I’m Bruno
 - 👀 I’m interested in Gaming and Software Developing
 - 🌱 I’m currently learning x86 Assembly, C, C++, Java.
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: You don't.
